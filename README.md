@@ -1,8 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nabil Al-Harethi
 ========================================================================================================================================
 
-I am a computer science student specialized in software development. I am passionate about creating innovative and user-friendly software solutions. I enjoy working in a team environment and collaborating with others to achieve common goals. I am also a self-motivated and independent worker, and I am confident in my ability to work on my own.
-
 * 🌍  I'm based in Sweden
 * ✉️  You can contact me at [nabilalharethi@gmail.com](mailto:nabilalharethi@gmail.com)
 
